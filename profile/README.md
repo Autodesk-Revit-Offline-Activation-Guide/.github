@@ -32,7 +32,7 @@ You do **not** need an Autodesk account, cloud services, or online license to us
 ![Revit Interface Key Features](https://damassets.autodesk.net/content/dam/autodesk/www/products/autodesk-revit-lt/fy23/features/images/key-features-of-revit-thumb-1920x1080.jpg)  
 *Explore the streamlined Revit LT interface with essential BIM tools*
 
-![From Design to Documentation in Revit](https://www.autodesk.com/content/dam/autodesk/www/products/autodesk-revit-family/fy22/architectural-design-industry/images/design-to-documentation-large-1920x1039.jpg)  
+![From Design to Documentation in Revit](https://damassets.autodesk.net/content/dam/autodesk/www/products/autodesk-revit-family/fy25/features/key-features-autodesk-revit-2025-thumb-1920x1080.jpg)  
 *Seamless workflow from concept design to final documentation*
 
 ![Revit Modeling and Visualization](https://damassets.autodesk.net/content/dam/autodesk/www/products/autodesk-revit-family/fy25/overview/create-and-develop-your-design-intent-thumb-1172x660-v2.jpg)  
